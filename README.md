@@ -12,8 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0416-partition-equal-subset-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
