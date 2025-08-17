@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/abhijitbiswal1902/Leet/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0416-partition-equal-subset-sum) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/abhijitbiswal1902/Leet/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
