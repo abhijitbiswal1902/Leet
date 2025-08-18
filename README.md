@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
