@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 ## String
 |  |
