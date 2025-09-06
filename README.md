@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
