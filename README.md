@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhijitbiswal1902/Leet/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/abhijitbiswal1902/Leet/tree/master/0485-max-consecutive-ones) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
 ## Math
