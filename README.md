@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
 ## Memoization
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
+| [1250-longest-common-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
