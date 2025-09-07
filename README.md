@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhijitbiswal1902/Leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
 ## Counting
 |  |
