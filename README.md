@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhijitbiswal1902/Leet/tree/master/0485-max-consecutive-ones) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijitbiswal1902/Leet/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
