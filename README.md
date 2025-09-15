@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhijitbiswal1902/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhijitbiswal1902/Leet/tree/master/0062-unique-paths) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhijitbiswal1902/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhijitbiswal1902/Leet/tree/master/0072-edit-distance) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhijitbiswal1902/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
