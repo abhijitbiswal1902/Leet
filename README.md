@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhijitbiswal1902/Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0213-house-robber-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhijitbiswal1902/Leet/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0300-longest-increasing-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
 ## Two Pointers
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0300-longest-increasing-subsequence) |
 ## Sorting
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
