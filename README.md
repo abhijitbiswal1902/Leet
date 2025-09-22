@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/abhijitbiswal1902/Leet/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Dynamic Programming
 |  |
 | ------- |
