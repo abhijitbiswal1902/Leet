@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijitbiswal1902/Leet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/abhijitbiswal1902/Leet/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhijitbiswal1902/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -212,9 +214,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
