@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 ## String
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhijitbiswal1902/Leet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhijitbiswal1902/Leet/tree/master/0115-distinct-subsequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhijitbiswal1902/Leet/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0678-valid-parenthesis-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijitbiswal1902/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
