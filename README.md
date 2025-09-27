@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhijitbiswal1902/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhijitbiswal1902/Leet/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/abhijitbiswal1902/Leet/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Dynamic Programming
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -233,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
