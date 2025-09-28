@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhijitbiswal1902/Leet/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/abhijitbiswal1902/Leet/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/abhijitbiswal1902/Leet/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/abhijitbiswal1902/Leet/tree/master/1446-angle-between-hands-of-a-clock) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/abhijitbiswal1902/Leet/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Number Theory
+|  |
+| ------- |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/abhijitbiswal1902/Leet/tree/master/2301-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
