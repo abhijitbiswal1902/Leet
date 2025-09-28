@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhijitbiswal1902/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
+| [1611-making-file-names-unique](https://github.com/abhijitbiswal1902/Leet/tree/master/1611-making-file-names-unique) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhijitbiswal1902/Leet/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/abhijitbiswal1902/Leet/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
+| [1611-making-file-names-unique](https://github.com/abhijitbiswal1902/Leet/tree/master/1611-making-file-names-unique) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/abhijitbiswal1902/Leet/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1611-making-file-names-unique](https://github.com/abhijitbiswal1902/Leet/tree/master/1611-making-file-names-unique) |
 ## Combinatorics
 |  |
 | ------- |
