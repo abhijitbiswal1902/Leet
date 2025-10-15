@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhijitbiswal1902/Leet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhijitbiswal1902/Leet/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhijitbiswal1902/Leet/tree/master/0583-delete-operation-for-two-strings) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhijitbiswal1902/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijitbiswal1902/Leet/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/abhijitbiswal1902/Leet/tree/master/0455-assign-cookies) |
