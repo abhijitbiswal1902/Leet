@@ -1,18 +1,18 @@
 class Solution {
 public:
     long long countPairs(vector<int>& nums, int k) {
-        map<int,int>m;
+        unordered_map<int,int>freq;
         long long ans=0;
-        for(int i=0;i<nums.size();i++){
-            int x=__gcd(nums[i],k);
-            int multiple=k/x;
-            for(auto it:m){
-                if(it.first % multiple ==0){
-                ans+=it.second;}
+        for(int num:nums){
+            int g=gcd(num,k);
+            int need=k/g;
+
+            for(auto it:freq){
+                if((1LL * g * it.first)%k==0)
+                    ans+=it.second;
                 
             }
-            m[x]++;
-
+            freq[g]++;
         }
         return ans;
     }
