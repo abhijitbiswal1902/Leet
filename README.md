@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijitbiswal1902/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhijitbiswal1902/Leet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/abhijitbiswal1902/Leet/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijitbiswal1902/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/abhijitbiswal1902/Leet/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/abhijitbiswal1902/Leet/tree/master/2301-count-array-pairs-divisible-by-k) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhijitbiswal1902/Leet/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijitbiswal1902/Leet/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhijitbiswal1902/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhijitbiswal1902/Leet/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/abhijitbiswal1902/Leet/tree/master/1829-maximum-units-on-a-truck) |
