@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/abhijitbiswal1902/Leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhijitbiswal1902/Leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhijitbiswal1902/Leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhijitbiswal1902/Leet/tree/master/0056-merge-intervals) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijitbiswal1902/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/abhijitbiswal1902/Leet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijitbiswal1902/Leet/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/abhijitbiswal1902/Leet/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/abhijitbiswal1902/Leet/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/abhijitbiswal1902/Leet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhijitbiswal1902/Leet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhijitbiswal1902/Leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhijitbiswal1902/Leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
