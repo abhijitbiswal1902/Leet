@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhijitbiswal1902/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhijitbiswal1902/Leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abhijitbiswal1902/Leet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhijitbiswal1902/Leet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0516-longest-palindromic-subsequence) |
@@ -250,11 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhijitbiswal1902/Leet/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
