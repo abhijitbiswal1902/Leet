@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhijitbiswal1902/Leet/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/abhijitbiswal1902/Leet/tree/master/0120-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhijitbiswal1902/Leet/tree/master/0300-longest-increasing-subsequence) |
