@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-making-file-names-unique](https://github.com/abhijitbiswal1902/Leet/tree/master/1611-making-file-names-unique) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhijitbiswal1902/Leet/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1829-maximum-units-on-a-truck](https://github.com/abhijitbiswal1902/Leet/tree/master/1829-maximum-units-on-a-truck) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/abhijitbiswal1902/Leet/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/abhijitbiswal1902/Leet/tree/master/2301-count-array-pairs-divisible-by-k) |
 ## Math
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/abhijitbiswal1902/Leet/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/abhijitbiswal1902/Leet/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhijitbiswal1902/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
