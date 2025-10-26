@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhijitbiswal1902/Leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijitbiswal1902/Leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/abhijitbiswal1902/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/abhijitbiswal1902/Leet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/abhijitbiswal1902/Leet/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/abhijitbiswal1902/Leet/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhijitbiswal1902/Leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/abhijitbiswal1902/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/abhijitbiswal1902/Leet/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/abhijitbiswal1902/Leet/tree/master/0435-non-overlapping-intervals) |
