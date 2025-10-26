@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhijitbiswal1902/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0525-contiguous-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhijitbiswal1902/Leet/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/abhijitbiswal1902/Leet/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abhijitbiswal1902/Leet/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/abhijitbiswal1902/Leet/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijitbiswal1902/Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhijitbiswal1902/Leet/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhijitbiswal1902/Leet/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijitbiswal1902/Leet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/abhijitbiswal1902/Leet/tree/master/0908-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
