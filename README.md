@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/abhijitbiswal1902/Leet/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhijitbiswal1902/Leet/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhijitbiswal1902/Leet/tree/master/1370-count-number-of-nice-subarrays) |
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhijitbiswal1902/Leet/tree/master/0268-missing-number) |
+| [1022-unique-paths-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1022-unique-paths-iii) |
 | [1559-cherry-pickup-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhijitbiswal1902/Leet/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
