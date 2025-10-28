@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhijitbiswal1902/Leet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhijitbiswal1902/Leet/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhijitbiswal1902/Leet/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijitbiswal1902/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijitbiswal1902/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/abhijitbiswal1902/Leet/tree/master/0566-reshape-the-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/abhijitbiswal1902/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/abhijitbiswal1902/Leet/tree/master/1022-unique-paths-iii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
