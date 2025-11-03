@@ -1,46 +1,24 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int open=0;
-        int close=0;
-        int star=0;
-        for(char c :s){
-            if (c=='('){
-                open++;
+        int low=0;
+        int high=0;
+        for(char c:s){
+            if(c=='('){
+                low++;
+                high++;
             }
             else if(c==')'){
-                close++;
+                low--;
+                high--;
             }
-            else if(c=='*'){
-                star++;
+            else {
+                low--;
+                high++;
             }
-            // if(star<(close-open)){
-            //     return false;
-            // }
-            if(close>star+open){
-                return false;
-            }
+            if(high<0) return false;
+            if(low<0) low=0;
         }
-        open=0;
-        close=0;
-        star=0;
-        for(int i=s.size()-1;i>=0;i--){
-            char c=s[i];
-            if(s[i]=='('){
-                open++;
-            }
-            else if(s[i]==')'){
-                close++;
-            }
-            else if(s[i]=='*'){
-                star++;
-            }
-            
-            if(open > star+close){
-                return false;
-            }
-        
-        }
-        return true;
+        return (low==0);
     }
 };
