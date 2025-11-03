@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhijitbiswal1902/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
