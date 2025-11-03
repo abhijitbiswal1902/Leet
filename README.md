@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/abhijitbiswal1902/Leet/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0669-trim-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhijitbiswal1902/Leet/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/abhijitbiswal1902/Leet/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
