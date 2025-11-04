@@ -1,28 +1,24 @@
 class Solution {
 public:
-    vector<string>result;
-    void solve(string & curr,int n,int open,int close){
-        if(curr.length()==2*n){
+    void backtrack(vector<string>& result, string curr, int open, int close, int n) {
+        // base case: if string is complete
+        if (curr.size() == 2 * n) {
             result.push_back(curr);
             return;
         }
-        if(open<n){
-            curr.push_back('(');
-            solve(curr,n,open+1,close);
-            curr.pop_back();
-        }
-        if(close<open){
-            curr.push_back(')');
-            solve(curr,n,open,close+1);
-            curr.pop_back();
-        }
+
+        // if we can still add '('
+        if (open < n)
+            backtrack(result, curr + "(", open + 1, close, n);
+
+        // if we can add ')'
+        if (close < open)
+            backtrack(result, curr + ")", open, close + 1, n);
     }
 
     vector<string> generateParenthesis(int n) {
-        string curr="";
-        int open=0;
-        int close=0;
-        solve(curr,n,open,close);
+        vector<string> result;
+        backtrack(result, "", 0, 0, n);
         return result;
     }
 };
